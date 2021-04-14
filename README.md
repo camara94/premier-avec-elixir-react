@@ -29,3 +29,6 @@ Les grandes étapes :
 Avant de commencer, il faut d'abord installer **elixir**<br /> [ici pour installer elixir](https://elixir-lang.org/install.html)
 Utiliser la commande Phoenix pour généraer un nouveau projet
 <code>mix phx.new article-elixir-midgard --app midgard  --no-webpack --no-html</code>
+
+## Installer Postgre
+Si vous n'avez pas postgré, vous pouvez l'installer à travers [Cet article](https://www.datacamp.com/community/tutorials/installing-postgresql-windows-macosx?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034358&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1012760&gclid=Cj0KCQjwpdqDBhCSARIsAEUJ0hO0u5RTbzMNzGrQNDHFjzCfIHOqXfdKLI4ulYFHnknxKVMggpPTmMIaAqHDEALw_wcB)
