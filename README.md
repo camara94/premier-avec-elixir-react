@@ -22,3 +22,10 @@ Les grandes étapes :
 * Documenter son api
 
 ## Installation des pré-requis
+* erlang / elixir
+* une base de donnée (Postgres dans notre cas)
+
+## Initialisation du projet Phoenix
+Avant de commencer, il faut d'abord installer **elixir**<br /> [ici pour installer elixir](https://elixir-lang.org/install.html)
+Utiliser la commande Phoenix pour généraer un nouveau projet
+<code>mix phx.new article-elixir-midgard --app midgard  --no-webpack --no-html</code>
